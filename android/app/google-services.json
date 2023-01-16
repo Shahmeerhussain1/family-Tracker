@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035727491210",
+    "project_id": "turo-1de9d",
+    "storage_bucket": "turo-1de9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035727491210:android:3fbd4af6d80ba87e56dd73",
+        "android_client_info": {
+          "package_name": "com.familytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035727491210-ap2ka5ab4bei5o8k490a0jm6sgtcu1e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVt7qDIVWeqvrl3d-4kgzbWVbcHL3cPxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035727491210-ap2ka5ab4bei5o8k490a0jm6sgtcu1e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
